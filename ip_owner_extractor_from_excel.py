@@ -1,6 +1,7 @@
 # Written in Spyder IDE
 # Learning purposes, give where credit is due...
-# Extraction of IPs and Owners from muddle information of text, just simply take an list of information and print an excel sheet with IPs and Owners
+# Extraction of IPs and Owners from muddle information of text, all it does is simply take an list of information and print an excel sheet of IPs and Owners
+# Refine regular expression?
 
 import pandas as pd
 import re
